@@ -3,6 +3,8 @@
 learnr
 ======
 
+[![Travis build status](https://travis-ci.org/askming/learnr.svg?branch=master)](https://travis-ci.org/askming/learnr)
+
 The goal of learnr is to ...
 
 Installation

@@ -11,3 +11,9 @@ LazyData: true
 RoxygenNote: 6.0.1
 URL: https://github.com/askming/learnr
 BugReports: https://github.com/askming/learnr/issues
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
+Import: 
+    tidyverse
